@@ -1,0 +1,6 @@
+>seq0
+ATTAC
+TGCA
+>seq1
+GCTT
+ACTAG
